@@ -6,8 +6,8 @@
     <a href="https://medium.com/@naman_snghl"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
     <a href="https://www.youtube.com/@namansinghal5255"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
     <a href="https://www.linkedin.com/in/namansnghl/"><img src="https://img.shields.io/badge/Linkedin-0077B5.svg?logo=Linkedin&logoColor=white" alt="Linkedin"></a>
-    <a href="https://www.hackerrank.com/profile/namansnghl"><img src="https://img.shields.io/badge/Hackerrank-00C000.svg?logo=Hackerrank&logoColor=white" alt="Linkedin"></a>
-    
+    <a href="https://www.hackerrank.com/profile/namansnghl"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
+    <a href="https://www.kaggle.com/naman99"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white" alt="Kaggle"></a>
 </div>
 
 <div align="center">
@@ -66,12 +66,14 @@
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
     <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+    <img src=https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white alt="Canva">
     <img src="https://img.shields.io/badge/PyGame-90EE90.svg?style=for-the-badge&logo=pygame&logoColor=white" alt="PyGame">
     <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
     <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
     <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
     <img src="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Terminal">
+    <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
 </div>
 
 <br><h1> ✍️ Random Dev Quote</h1>
