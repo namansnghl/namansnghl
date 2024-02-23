@@ -81,8 +81,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-<br><h1>📊 GitHub Stats:</h1>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=namansnghl&theme=default&hide_border=false" alt="GitHub Streak Stats" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansnghl&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+<br><h1>📊 Stats:</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=namansnghl&theme=default&hide_border=false&include_all_commits=true&count_private=true" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansnghl&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
 <br><br>
 
 ---
