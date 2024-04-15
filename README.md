@@ -59,6 +59,7 @@
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+    <img src="https://img.shields.io/badge/🤗 Transformers-%2300808F.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers">
 </div>
 
 <h3>Other</h3>
