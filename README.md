@@ -86,13 +86,39 @@
     <img src="https://img.shields.io/badge/PowerShell-207FD6?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
 </div>
 
-<br><h1> ✍️ Random Dev Quote</h1>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+
+<!-- Current Focus Section -->
+<h1>🔍 Currently Focused On</h1>
+<div align="left">
+  <ul>
+    <li>🧠 Exploring advanced RAG architectures for enterprise solutions</li>
+    <li>🛡️ Implementing robust security practices in AI-powered data pipelines</li>
+    <li>🧩 Exploring ethical considerations in generative AI applications</li>
+  </ul>
+</div>
 
 
-<br><h1>📊 Stats:</h1>
-<img src="https://github-readme-stats.vercel.app/api?username=namansnghl&theme=default&hide_border=false&include_all_commits=true&count_private=true" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansnghl&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-<br><br>
+<h1>✍️ Random Dev Quote</h1>
+<div align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
+
+<h1>📊 Stats:</h1>
+<div align="center">
+  <!-- First row: GitHub Stats and Streak Stats side by side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=namansnghl&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namansnghl&theme=default&hide_border=false" alt="GitHub Streak Stats" width="50%" />
+  
+  <!-- Second row: Top Languages and GitHub Trophies -->
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansnghl&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="30%" />
+</div>
 
 ---
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=namansnghl&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Visitor Counter" />
+</div>
