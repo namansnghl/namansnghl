@@ -30,16 +30,16 @@
 
 <h3>Languages</h3>
 <div align="left">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-    <img src="https://img.shields.io/badge/c%20Language-%2300999C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C Language">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R">
-    <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+    <img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python">
+    <img src="https://img.shields.io/badge/c%20Language-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language">
+    <img src="https://img.shields.io/badge/java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/c%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img src="https://img.shields.io/badge/r-2266BA?style=for-the-badge&logo=r&logoColor=white" alt="R">
+    <img src="https://img.shields.io/badge/shell_script-2B2B2B?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" alt="Shell Script">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/latex-007C7C?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
+    <img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
 <div>
 
 <h3>Data Related</h3>
@@ -69,21 +69,21 @@
 
 <h3>Other</h3>
 <div align="left">
-    <img src="https://img.shields.io/badge/-Apache_Airflow-ff6666?style=for-the-badge&logo=ApacheAirflow&logoColor=black" alt="Apache_Spark">
-    <img src="https://img.shields.io/badge/-Docker-00979D?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Pydantic-%23ED8B00.svg?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic">
-    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
-    <img src="https://img.shields.io/badge/Github_Actions-3399ff.svg?style=for-the-badge&logo=Githubactions&logoColor=black" alt="Github_Actions">
-    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
+    <img src="https://img.shields.io/badge/-Apache_Airflow-E43921?style=for-the-badge&logo=ApacheAirflow&logoColor=white" alt="Apache_Airflow">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=black" alt="AWS">
+    <img src="https://img.shields.io/badge/Github_Actions-2088FF?style=for-the-badge&logo=Githubactions&logoColor=white" alt="Github_Actions">
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
-    <img src=https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white alt="Canva">
-    <img src="https://img.shields.io/badge/PyGame-90EE90.svg?style=for-the-badge&logo=pygame&logoColor=white" alt="PyGame">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-    <img src="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Terminal">
+    <img src="https://img.shields.io/badge/-Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
+    <img src="https://img.shields.io/badge/PyGame-3E6E7B?style=for-the-badge&logo=pygame&logoColor=white" alt="PyGame">
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+    <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+    <img src="https://img.shields.io/badge/Terminal-241F31?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Terminal">
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-    <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+    <img src="https://img.shields.io/badge/PowerShell-207FD6?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
 </div>
 
 <br><h1> ✍️ Random Dev Quote</h1>
