@@ -44,23 +44,27 @@
 
 <h3>Data Related</h3>
 <div align="left">
-    <img src="https://img.shields.io/badge/PySpark-FFD580?style=for-the-badge&logo=apachespark&logoColor=black" alt="Apache Spark">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle">
-    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-    <img src="https://img.shields.io/badge/Amazon%20Redshift-4053D6?style=for-the-badge&logo=Amazon%20Redshift&logoColor=white" alt="Amazon Redshift">
-    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="Scipy">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-    <img src="https://img.shields.io/badge/Matplotlib-964B00.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
-    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-    <img src="https://img.shields.io/badge/Transformers-%2300808F.svg?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers">
-    <img src="https://img.shields.io/badge/dvc-%2300000f.svg?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC">
+    <img src="https://img.shields.io/badge/PySpark-FF9D00?style=for-the-badge&logo=apachespark&logoColor=black" alt="Apache Spark">
+    <img src="https://img.shields.io/badge/Oracle-E80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+    <img src="https://img.shields.io/badge/MariaDB-00537D?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CA3433?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server">
+    <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/mysql-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/sqlite-0F80CC?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+    <img src="https://img.shields.io/badge/Amazon%20Redshift-6B48FF?style=for-the-badge&logo=Amazon%20Redshift&logoColor=white" alt="Amazon Redshift">
+    <img src="https://img.shields.io/badge/SciPy-0053B8?style=for-the-badge&logo=scipy&logoColor=white" alt="Scipy">
+    <img src="https://img.shields.io/badge/pandas-130754?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+    <img src="https://img.shields.io/badge/numpy-4DABCF?style=for-the-badge&logo=numpy&logoColor=black" alt="NumPy">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/scikit--learn-F89939?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="scikit-learn">
+    <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers">
+    <img src="https://img.shields.io/badge/dvc-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC">
+    <img src="https://img.shields.io/badge/LlamaIndex-00CC99?style=for-the-badge&logo=LlamaIndex&logoColor=black" alt="LlamaIndex">
+    <img src="https://img.shields.io/badge/LangChain-00A3E0?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyLDJBMTAsMTAgMCAwLDAgMiwxMkExMCwxMCAwIDAsMCAxMiwyMkExMCwxMCAwIDAsMCAyMiwxMkExMCwxMCAwIDAsMCAxMiwyTTEyLDRBOCw4IDAgMCwxIDIwLDEyQTgsOCAwIDAsMSAxMiwyMEE4LDggMCAwLDEgNCwxMkE4LDggMCAwLDEgMTIsNE0xMyw3SDExVjE0LjI3QzkuNzEsMTQuNzIgOCwxNi4wNiA4LDE3LjVDOCwxOS40MyA5LjU3LDIxIDExLjUsMjFDMTMuNDMsMjEgMTUsMTkuNDMgMTUsMTcuNUMxNSwxNi4wNiAxMy4yOSwxNC43MiAxMiwxNC4yN1Y3WiIvPjwvc3ZnPg==" alt="LangChain">
+    <img src="https://img.shields.io/badge/RAG-FF5722?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTkuODgsMTUuNTRMMTEuMSwxOEgyMVYxNkgxMi4xOEwxMS40LDE0LjUsMTAuMDksMTAuNTRMMTEuMTAsNkgyMVY0SDEyLjE4TDExLjQsMUw5LjksMi41TDEwLjYyLDZMOS4zLDEwLjVMOS44OCwxNS41NFpNMywyMlYzSDBWMjJDMCwyMy4xLDAuOSwyNCAyLDI0SDIxVjIySEMzWk0xNiwxMUMxNi4yOCwxMSAxNi41LDEwLjg5IDE2LjYsMTAuNzFMMTcuNDIsOUMxNy41Nyw4Ljc0IDE3LjUsOC40MSAxNy4zLDguMjFDMTcsOCAyLjIsMSAxLjQsMUMxLjIsMC44NCAxLDAuNzggMC43OSwwLjc4QzAuNDEsMC43OCAzLDEuMDcgMCwxLjM5VjE4QzEsMTkuMSwwLjksMjAgMiwyMEgxOVYxOEgzVjRMMTUsMTFIMTZaIi8+PC9zdmc+" alt="RAG">
+    
 </div>
 
 <h3>Other</h3>
