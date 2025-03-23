@@ -108,13 +108,8 @@
 
 <h1>📊 Stats:</h1>
 <div align="center">
-  <!-- First row: GitHub Stats and Streak Stats side by side -->
   <img src="https://github-readme-stats.vercel.app/api?username=namansnghl&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=namansnghl&theme=default&hide_border=false" alt="GitHub Streak Stats" width="50%" />
-  
-  <!-- Second row: Top Languages and GitHub Trophies -->
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namansnghl&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="30%" />
 </div>
 
 ---
