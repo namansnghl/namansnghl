@@ -4,7 +4,7 @@
 </h1>
 <div align="center">
     <a href="https://medium.com/@naman_snghl" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"></a>
-    <a href="https://www.youtube.com/@namansinghal5255" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@namansnghl" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a>
     <a href="https://www.linkedin.com/in/namansnghl/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5.svg?logo=Linkedin&logoColor=white" alt="Linkedin"></a>
     <a href="https://www.hackerrank.com/profile/namansnghl" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?logo=HackerRank&logoColor=white" alt="Hackerrank"></a>
     <a href="https://www.kaggle.com/naman99" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=Kaggle&logoColor=white" alt="Kaggle"></a>
