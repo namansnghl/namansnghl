@@ -99,11 +99,11 @@
   </ul>
 </div>
 
-
+<!--
 <h1>✍️ Random Dev Quote</h1>
 <div align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+</div>-->
 
 
 <h1>📊 Stats:</h1>
