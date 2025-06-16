@@ -42,7 +42,8 @@
 <h2>⭐ My North Star</h2>
 <blockquote>
   <p><em>"A dream is not that which you see while sleeping, it is something that does not let you sleep."</em><br>
-  — A.P.J. Abdul Kalam</p>
+  — Dr. A.P.J. Abdul Kalam<br>
+  <sub>Missile Man of India, 11th President of India</sub></p>
 </blockquote>
 
 
