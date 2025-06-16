@@ -25,9 +25,8 @@
     From mastering Python, Java, C, to tinkering with Internet of things or web development languages like NodeJS, I'm constantly honing my skills to push boundaries and innovate. Whether I'm crunching numbers with <a href="https://github.com/namansnghl/SQLify">machine learning algorithms</a> or crafting a <a href="https://youtube.com/shorts/t36TyZs9H4g?si=kJ3ZES4msUqVkwO6">self parking car</a>, I'm fueled by a passion for problem-solving and a thirst for knowledge. Beyond the keyboard, you'll find me exploring the intricacies of psychology, hitting the gym for a solid workout, or engaging in spirited debates. Let's team up and bring some serious magic to the table!
 </p>
 
-<h2>🎯 What I Live By</h2>
-<p><strong>Motto:</strong> "Do Something Amazing"</p>
-<p><strong>Mission:</strong> Build technology that genuinely improves lives, one solution at a time.</p>
+<h2>🎯 I Live By</h2>
+<p><strong>Motto:</strong> "Do Something Amazing"<br><strong>Mission:</strong> Build technology that genuinely improves lives, one solution at a time.</p>
 
 <h2>💡 My Values</h2>
 <ul>
@@ -47,7 +46,7 @@
 </blockquote>
 
 
-<h2>📊 Stats:</h2>
+<h2>📊 Boring stuff:</h2>
 <div align="left">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=namansnghl&mode=weekly" alt="GitHub Streak Stats" width="38%" />
 <br>
