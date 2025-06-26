@@ -53,3 +53,7 @@
 <br>
   <img src="https://komarev.com/ghpvc/?username=namansnghl&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Visitor Counter" />
 </div>
+
+<div align="center">
+    <sub>💬 Connect on <a href="https://www.linkedin.com/in/namansnghl/">LinkedIn</a> | 📧 namansnghl.public@gmail.com</sub>
+</div>
